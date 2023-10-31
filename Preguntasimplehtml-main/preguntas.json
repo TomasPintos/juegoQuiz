@@ -1,0 +1,166 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos siglos duró el Siglo de Oro?",
+        "respuesta": "Dos",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Tres",
+        "imagen": "https://imgs.search.brave.com/TrU9HFy578ODUSv2C7lcJkKu9j2GwRdJRAP0GxCbwnA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzVjL0Vz/Y29yaWFsQmlibGlv/dGVjYS5qcGcvNjQw/cHgtRXNjb3JpYWxC/aWJsaW90ZWNhLmpw/Zw"
+    }
+    ,
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de la novela \"Cien años de soledad.\"",
+        "respuesta": "Gabriel García Márquez",
+        "incorrecta1": "Mario Vargas Llosa",
+        "incorrecta2": "Jorge Luis Borges",
+        "incorrecta3": "Pablo Neruda",
+        "imagen": "https://imgs.search.brave.com/PKT0DLKi8IUaifZdGypaoAmcWhSMaxh0CuIkdDDBXuQ/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2ExL0Np/ZW5fYSVDMyVCMW9z/X2RlX3NvbGVkYWQu/cG5nLzUxMnB4LUNp/ZW5fYSVDMyVCMW9z/X2RlX3NvbGVkYWQu/cG5n"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió la famosa obra \"Romeo y Julieta\"?",
+        "respuesta": "William Shakespeare",
+        "incorrecta1": "Fyodor Dostoevsky",
+        "incorrecta2": "Jane Austen",
+        "incorrecta3": "Charles Dickens",
+        "imagen": "https://imgs.search.brave.com/fWTQHh6VAL0ZcjQWu4PKwmAwFJccmAqlhEdOD5Imb0o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2EzL0RpY2tzZWVS/b21lb2FuZEp1bGll/dC5qcGc"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿En qué país nació el pintor Vincent van Gogh?",
+        "respuesta": "Países Bajos (Holanda)",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Bélgica",
+        "incorrecta3": "España",
+        "imagen": "https://imgs.search.brave.com/TdkqwO8YGFTIkAXWyT0x6XhD3bB4BkWIrCY1c0QT70E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9kYW1hdGVy/aWEuY29tLmJyL3Vw/bG9hZC92aS9uYy92/aW5jZW50LWNrZS5q/cGc"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de la novela \"1984.\"",
+        "respuesta": "George Orwell",
+        "incorrecta1": "Aldous Huxley",
+        "incorrecta2": "Ray Bradbury",
+        "incorrecta3": "H.G. Wells",
+        "imagen": "https://imgs.search.brave.com/Xx0tGu-JIND2XtFNu496kTX5hUZ-d7Tjyfd_u9TvWGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU2/NTM0ODQ2L3Bob3Rv/L2pvaG4taHVydC1o/b2xkcy1hLWJvb2st/aW4tYS1zY2VuZS1m/cm9tLXRoZS1maWxt/LTE5ODQtMTk4NC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/SEVWSnBRNmEtZ2U3/ZUlzTjdDTDBoYVhT/eWxvYjVBeTRwWGVN/M2FVR1ZZVT0"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién es el autor de la obra de teatro \"Hamlet\"?",
+        "respuesta": "William Shakespeare",
+        "incorrecta1": "Anton Chekhov",
+        "incorrecta2": "Molière",
+        "incorrecta3": "Tennessee Williams",
+        "imagen": "https://imgs.search.brave.com/NiLZg6i2BKy8gQ2VZWOCSD7lFeV_qzER0f6XT7aW7Bw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTcw/MDkxODY1L3ZlY3Rv/ci9oYW1sZXQuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVox/YVctTmFNZHRHV3N2/aXhaWTRmZnJWZGhz/cFdHaTVWbFI4UDVy/dWFyckU9"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue la primera capital de Estados Unidos?",
+        "respuesta": "Nueva York",
+        "incorrecta1": "Filadelfia",
+        "incorrecta2": "Boston",
+        "incorrecta3": "Washington, D.C.",
+        "imagen": "https://imgs.search.brave.com/mi1ZINs5LDY7LoH_xVFLgJvMJA_1nMycorACqPePZuw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/c2FiZXJlc3ByYWN0/aWNvLmNvbS93cC1j/b250ZW50L3RoZW1l/cy9pbWFnaW5hdGlv/bi9CYW5kZXJhJTIw/ZGUlMjBsb3MlMjBF/c3RhZG9zJTIwVW5p/ZG9zJTIwZGUlMjBB/bSVDMyVBOXJpY2El/MjAoZW50cmFkYSku/anBn"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+        "respuesta": "George Washington",
+        "incorrecta1": "Thomas Jefferson",
+        "incorrecta2": "Benjamin Franklin",
+        "incorrecta3": "John Adams",
+        "imagen": "https://imgs.search.brave.com/j0IJqKXtWIhcrtBdydtvQTx8kIKOplXKZffsJRNAQnM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9va2Rp/YXJpby5jb20vaW1n/LzIwMTgvMDEvMDIv/YWJyYWhhbS1saW5j/b2xuLTY1NXgzNjgu/anBn"
+    },
+    {
+         "categoria": "Argentina",
+         "pregunta": "¿En qué año se firmó la Declaración de Independencia de Argentina?",
+         "respuesta": "1816",
+         "incorrecta1": "1820",
+         "incorrecta2": "1830",
+         "incorrecta3": "1840",
+         "imagen": "https://imgs.search.brave.com/vsEf6ih46309ix0eH0PGv5yCUAMCfY5IW-TPLW-YElE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGFuYWNpb24uY29t/LmFyL3Jlc2l6ZXIv/djIvbGEtZGVjbGFy/YWNpb24tZGUtbGEt/aW5kZXBlbmRlbmNp/YS1lbC05LWRlLWp1/bGlvLUpaNFBUUkdU/WjVFVEJQM1JEVkZF/VFlVTlFZLmpwZz9h/dXRoPTM0ZjMxMmZl/M2EwODI2MGFhYzRi/ZDJjMWM3ZmU2Y2Y3/NWEzMzc5ODQ1MDZk/ZjY4ZDY2ZmQxYjlj/OTA4NWM4ODcmd2lk/dGg9NDIwJmhlaWdo/dD0yODAmcXVhbGl0/eT03MCZzbWFydD1m/YWxzZQ"
+            },
+     {
+         "categoria": "Argentina",
+         "pregunta": "¿Quién lideró la Revolución de Mayo de 1810 en Argentina?",
+         "respuesta": "Manuel Belgrano",
+         "incorrecta1": "José de San Martín",
+         "incorrecta2": "Juan Domingo Perón",
+         "incorrecta3": "Bartolomé Mitre",
+         "imagen": "https://imgs.search.brave.com/JwKsPYlEUI8jfs28HbqKDQ7n24KVmoNVqXRhOU0t1eI/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzUzLzI1/X2RlX21heW9fcG9y/X0YuX0ZvcnR1bnku/anBnLzUxMnB4LTI1/X2RlX21heW9fcG9y/X0YuX0ZvcnR1bnku/anBn"
+     },
+     {
+         "categoria": "Argentina",
+         "pregunta": "¿En qué año se llevó a cabo la independencia de Argentina?",
+         "respuesta": "1816",
+         "incorrecta1": "1820",
+         "incorrecta2": "1830",
+         "incorrecta3": "1840",
+         "imagen": "https://imgs.search.brave.com/Lzb7KCJOah9PT2wmu5wH9jyEe1gf7d_7e4eOtU7k2iA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuaXByb2Zlc2lv/bmFsLmNvbS9hc3Nl/dHMvanBnLzIwMjEv/MDYvNTE4ODgxLmpw/Zz83LjIuMw"
+            }]
